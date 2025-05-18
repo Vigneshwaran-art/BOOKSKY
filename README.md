@@ -17,10 +17,24 @@
 
 ## 📸 Screenshot
 
-![BookSky UI](./screenshot.png)
+![BookSky UI](./Screenshot.png)
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/booksky.git
+2.Open the index.html file in your browser to run the app locally.
+
+📂 Project Structure
+   booksky/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+📌 Future Enhancements
+Store book entries in localStorage
+
+Add edit functionality
+
+Add category filters or search bar
