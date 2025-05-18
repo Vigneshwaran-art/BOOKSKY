@@ -27,10 +27,12 @@
 2.Open the index.html file in your browser to run the app locally.
 
 📂 Project Structure
-   booksky/├── index.html
-           ├── style.css
-           ├── script.js
-           └── README.md
+   booksky/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
 📌 Future Enhancements
 
    1.Store book entries in localStorage
