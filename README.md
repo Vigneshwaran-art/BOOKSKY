@@ -26,15 +26,8 @@
    git clone https://github.com/your-username/booksky.git
 2.Open the index.html file in your browser to run the app locally.
 
-📂 Project Structure
-   booksky/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+## 📌 Future Enhancements
 
-📌 Future Enhancements
-
-   1.Store book entries in localStorage
-   2.Add edit functionality
-   3.Add category filters or search bar
+   - Store book entries in localStorage
+   - Add edit functionality
+   - Add category filters or search bar
